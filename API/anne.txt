@@ -1,0 +1,2 @@
+http://192.168.1.103/tchat/API/index.php?action=addMessage&userId=8&messageValue=on fait un resto le dernier jour ???? &userId=1;
+

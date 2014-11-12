@@ -1,0 +1,122 @@
+
+
+body
+{
+    /* structure */
+    margin: 0 auto;
+
+    min-height: 100%;
+    width: 100%;
+
+    /* presentation */
+    font-family: 'Open Sans', sans-serif;
+}
+
+#hide
+{
+    display: none;
+}
+
+h1
+{
+    color: #00968B;
+    text-align: center;
+
+}
+.usersconnect input
+{
+    /*margin: 2rem; */
+    
+   
+    width: 28%;
+    height: 1rem;
+    float: left;
+    background-color: lightgray ;
+    margin-right: 1rem;
+
+
+}
+#btn
+{
+    width: 10%;
+    height: 1.5rem;
+    float: left;
+    background-color: lightgray ;
+
+}
+#userNickname
+{
+    width: 30%;
+    height: 3rem;
+    margin-left: 3rem;
+
+    border-radius: 1rem;
+}
+
+#blog
+{
+    margin: 2rem;
+
+    width: 60%;
+    height: 30rem;
+    float: left;
+    border-style: solid;
+    overflow-y: scroll;
+
+}
+#users
+{
+    margin: 2rem;
+    padding-left: 1rem;
+    width: 25%;
+    height: 30rem;
+    float: left;
+    background-color: cadetblue ;
+    border-radius: 1rem;
+    opacity: 0.8;
+    overflow-x: hidden;
+    overflow-y: scroll;
+
+
+    
+
+}
+p
+{
+    vertical-align: baseline;
+    margin: 0.5rem;
+    padding-left: 1rem;
+    padding-top: 0.8rem;
+    background-color: cadetblue;
+    border-radius: 1rem;
+
+}
+
+header
+{
+    background-color: cadetblue;
+}
+footer
+{
+    margin: 2rem;
+    clear: both;
+    position : absolute;
+    bottom: 0;
+    width: 80%;
+}
+#messageForm
+{
+    width: 72%;
+
+}
+#message
+{
+    width: 85%;
+
+    margin: 1rem;
+    padding-top: 0.8rem;
+    border-radius: 1rem;
+
+
+}
+
